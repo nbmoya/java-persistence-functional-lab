@@ -10,4 +10,17 @@ Generic Inventory System: Implemented a thread-safe Inventario<T> class that man
 
 Functional Programming: Advanced data filtering, counting, and transformation using Lambda expressions and Java's functional interfaces (Predicate, Function, Comparator).
 
-Persistence Layer: Supports three distinct data formats: CSV, Binary (Serialization), and JSON (via Google's Gson library)
+Persistence Layer: Supports three distinct data formats: CSV, Binary (Serialization), and JSON (via Google's Gson library).
+
+Tech Stack,
+Language: Java (17+)
+
+Libraries: Google Gson (JSON processing).
+
+Concepts: OOP, Generics, Lambdas, Streams, Persistence.
+
+Getting Started,
+Clone the repository.
+
+Ensure you have Java 17 or higher and the Gson library in your classpath.
+Run the GestionParque.java main class to see the system in action.
